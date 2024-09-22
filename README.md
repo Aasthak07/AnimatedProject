@@ -1,1 +1,2 @@
 # AnimatedProject
+Front-end Project
